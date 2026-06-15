@@ -1,5 +1,5 @@
 ---
-title: Look around
+title: Look Around
 layout: browse
 permalink: /look.html
 ---
