@@ -1,7 +1,7 @@
 ---
 title: Look around
 layout: browse
-permalink: /browse.html
+permalink: /look.html
 ---
 
-## Browse Items
+## GET NOSY
