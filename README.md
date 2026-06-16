@@ -1,3 +1,3 @@
-# DHSI 2026 CollectionBuilder Demo
+# The Hyphen, The Bracket, The Asterisk
 
-this is my file. i can make a note to myself. this is a project description.
+The beginning of a beginning of a prototype.

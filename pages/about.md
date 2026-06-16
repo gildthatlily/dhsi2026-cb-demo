@@ -20,7 +20,7 @@ padding: 6em
 
 ## About This Project
 
-This demo features items from familial and colonial archives, and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This project is the beginning of a beginning of a prototype that features items from familial and colonial archives, and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 
 
