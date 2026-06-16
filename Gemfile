@@ -3,7 +3,8 @@
 source 'https://rubygems.org'
 
 # needed for Jekyll
-gem 'jekyll', '4.0.1'
+gem 'jekyll'
+gem 'sass-embedded', '1.93.2'
 gem 'webrick'
 gem 'logger'
 gem 'base64'
