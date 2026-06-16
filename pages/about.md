@@ -1,5 +1,5 @@
 ---
-title: "The Hyphen, The Bracket, The Asterisk"
+title: 'The Hyphen, The Bracket, The Asterisk'
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
