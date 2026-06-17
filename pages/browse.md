@@ -4,4 +4,4 @@ layout: browse
 permalink: /browse.html
 ---
 
-## GET NOSY
+## Be Nosier
