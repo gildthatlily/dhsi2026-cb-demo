@@ -11,7 +11,7 @@
 featured-image: rfalib_a_ baby_my_mother
 featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
 # optional: add extra padding above collection title for a larger image feature. 
-home-title-y-padding: 20em # the margin from the top your title portion will appear.
+home-title-y-padding: 25em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
 
@@ -43,7 +43,7 @@ subjects-stopwords: unknown # set of subjects separated by ; that will be remove
 #
 locations-fields: location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
 locations-min: 1 # min size for subject cloud, too many terms = slow load time!
-locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+locations-stopwords: unknown # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # MAP PAGE
@@ -97,10 +97,10 @@ search-child-objects: true # true / false - if true, child objects will appear o
 #
 # navbar text color scheme
 # Choose from "light" for use with light background colors, or "dark" for dark background colors
-navbar-color: light
+navbar-color: 
 # navbar background color, https://getbootstrap.com/docs/5.3/utilities/background/
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-black
+navbar-background: 
 
 # BOOTSWATCH THEMES [optional!]
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
