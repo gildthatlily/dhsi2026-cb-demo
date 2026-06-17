@@ -64,7 +64,7 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 #
 # set either year-navigation or year-nav-increment to generate a year nav dropdown
 year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
-year-nav-increment: 5 # set increments to auto gen nav years
+year-nav-increment: 1 # set increments to auto gen nav years
 
 ##########
 # DATA 
@@ -108,7 +108,7 @@ navbar-background: bg-primary
 bootswatch: quartz # leave blank or comment out for plain bootstrap
 
 # THEME FONTS [optional!]
-base-font-size: 1.2em
+base-font-size: 1em
 text-color: "#b9faee"
 link-color: "#65f7dc"
 base-font-family: spectral # comment out for bootstrap defaults. e.g. Roboto
