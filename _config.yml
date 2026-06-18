@@ -23,7 +23,7 @@ title: The Hyphen, The Bracket, The Asterisk
 tagline: digging deeper into CollectionBuilder while in french canada
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: This project is a seed of a beginning of a prototype that will feature items from familial and colonial archives. It was created using CollectionBuilder.
+description: Created using [CollectionBuilder] (https://collectionbuilder.github.io/), this project is a tiny seed of a beginning of a prototype (v2) that will feature items from familial and colonial archives alongside interpretive content. It was begun in Fall 2024 for Dr. Carolina Ebeid's “Writing with the Family Archives” Literary Arts class at Brown University. This multimedia essay is a long-term work-in-progress.
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: digital humanities
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
