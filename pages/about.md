@@ -3,7 +3,7 @@ title: The Hyphen, The Bracket, The Asterisk
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # featured-image value can be one objectid for a photo object in this collection, a relative path to an image in this project, or a full url to any image. If left blank, no featured image will appear at top of About page.
 about-featured-image: rfalib_a_ baby_my_mother
 # set background-position for featured image, "center", "top", "bottom"
@@ -178,7 +178,7 @@ A Black Feminist Poethics becomes here a World imaged as endless Poethics: that 
 
 {% include feature/blockquote.html quote=dasilva91 size="sm" align="left" bottom=0 %}
 
-*This project is the beginning of a beginning of a prototype that features items from familial and colonial archives, and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).*
+*This project is a seed of a beginning of a prototype that will feature items from familial and colonial archives. It was created using CollectionBuilder.*
 
 
 
