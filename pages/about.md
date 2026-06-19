@@ -142,7 +142,7 @@ Released from the core of Thought — always in excess of the objects and subjec
 
 {% include feature/blockquote.html quote=dasilva86 size="sm" align="left" bottom=0 %}
 
-#### In terms of form, I have chosen to utilize CollectionBuilder, a digital humanities platform, for the “final” iteration of this project because that it permits me to embed a variety of audiovisual archival materials and play with narrative [non]linearity. However, I am still thinking about *method*.
+#### In terms of form, I have chosen to utilize CollectionBuilder, a digital humanities platform, for the next iteration of this project because  it permits me to embed a variety of audiovisual archival materials and play with narrative [non]linearity. However, I am still thinking about *method*.
 
 {% capture mckittrick121 %}
 
@@ -178,10 +178,5 @@ A Black Feminist Poethics becomes here a World imaged as endless Poethics: that 
 
 {% include feature/blockquote.html quote=dasilva91 size="sm" align="left" bottom=0 %}
 
-*This project is a seed of a beginning of a prototype that will feature items from familial and colonial archives. It was created using CollectionBuilder.*
-
-
-
-
-{% include feature/image.html objectid="rfalib_2002_funeral" width="50" %} 
+*This project is a seed of a beginning of a prototype that will feature items from familial and colonial archives.*
 
