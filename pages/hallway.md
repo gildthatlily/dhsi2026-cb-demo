@@ -13,10 +13,26 @@ heading: The Hallway
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
-padding: 20em
+padding: .1em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About This Project
+{% include feature/card.html text="The Vestibule" header="The Vestibule" objectid="rfalib_mom_at_14" width="10" centered="true" %}
+
+{% include feature/card.html text="Some text" header="The Parlour" objectid="rfalib_1970smom" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Cubiculum" objectid="rfalib_1980spassportphoto" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Office" objectid="rfalib_1980sor1990s" width="10" %}
+
+{% include feature/card.html text="Some text" header="dreamspace" objectid="solstice_full_moon_bonfire" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Cry Room" objectid="rfalib_2002_funeral" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Fuse Box" objectid="untitled_collage_v2" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Garden" objectid="floorplanner_tour1_being_and_becoming" width="10" %}
+
+{% include feature/card.html text="Some text" header="The Back Gate" objectid="rfalib_june1974" %}
 
